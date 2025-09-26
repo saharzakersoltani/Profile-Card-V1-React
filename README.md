@@ -1,6 +1,4 @@
-# React Challenge: Components, Props, and JSX
-
-## Profile Cart V1
+# Profile Cart V1: React Challenge
 
 A small project from Jonas Schmedtmann’s React course.  
 The focus of this challenge is learning how to:

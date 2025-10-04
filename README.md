@@ -7,6 +7,9 @@ The focus of this challenge is learning how to:
 - Pass and handle **props**
 - Work with **JSX** syntax
 
+![Screenshot](./profilev1.png)
+
+
 ## Run the project
 
 ```bash
